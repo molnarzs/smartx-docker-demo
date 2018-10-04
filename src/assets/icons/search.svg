@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/search" transform="translate(-3.000000, -3.000000)" fill="#C1C7D0" fill-rule="nonzero">
+            <path d="M15.3397464,16.6916527 C14.9522896,16.2980848 15.9572437,16.6649392 16.3508116,16.2774824 C16.7443795,15.8900257 16.3775251,14.8949797 16.7649819,15.2885476 L20.7126177,19.2984475 C21.1000745,19.6920154 21.0951204,20.325161 20.7015525,20.7126177 C20.3079846,21.1000745 19.674839,21.0951204 19.2873823,20.7015525 L15.3397464,16.6916527 Z M11,19 C6.581722,19 3,15.418278 3,11 C3,6.581722 6.581722,3 11,3 C15.418278,3 19,6.581722 19,11 C19,15.418278 15.418278,19 11,19 Z M11,17 C14.3137085,17 17,14.3137085 17,11 C17,7.6862915 14.3137085,5 11,5 C7.6862915,5 5,7.6862915 5,11 C5,14.3137085 7.6862915,17 11,17 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

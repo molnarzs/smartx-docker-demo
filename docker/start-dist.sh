@@ -1,0 +1,1 @@
+../src/common/web/scripts/start-dist.sh

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/card-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/card-active" transform="translate(-2.000000, -5.000000)" fill="#007FFF">
+            <path d="M4,5 L20,5 C21.1045695,5 22,5.8954305 22,7 L22,9 L2,9 L2,7 C2,5.8954305 2.8954305,5 4,5 Z" id="Rectangle-21"></path>
+            <path d="M4,11 L20,11 C21.1045695,11 22,11.8954305 22,13 L22,19 L2,19 L2,13 C2,11.8954305 2.8954305,11 4,11 Z" id="Rectangle-21-Copy" transform="translate(12.000000, 15.000000) rotate(-180.000000) translate(-12.000000, -15.000000) "></path>
+        </g>
+    </g>
+</svg>

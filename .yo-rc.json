@@ -1,0 +1,7 @@
+{
+    "generator-garlic-webapp": {
+        "appname": "paycap client",
+        "scope": "capitalhitelhaz",
+        "projectType": "site"
+    }
+}

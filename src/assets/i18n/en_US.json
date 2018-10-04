@@ -1,0 +1,337 @@
+{
+    "translatedText": "Text in English",
+    "labels": {
+        "continue": "CONTINUE",
+        "tryAgain": "TRY AGAIN",
+        "edit": "EDIT",
+        "ok": "OK",
+        "or": "OR",
+        "next": "NEXT",
+        "signIn": "SIGN IN",
+        "send": "SEND",
+        "save": "SAVE",
+        "delete": "DELETE",
+        "changePassword": "CHANGE PASSWORD",
+        "requestPassword": "REQUEST PASSWORD",
+        "uploading": "UPLOADING...",
+        "success": "SUCCESS",
+        "phoneVerificationPending": "User phone number updated, pending verification.",
+        "emailVerificationPending": "Email updated, pending verification."
+    },
+    "dashboard": {
+
+    },
+    "accounts": {
+        "newTitle": "Create an account to start using PayCap",
+        "addAccount": "Add account",
+        "addCrypto": "Add crypto wallet",
+        "addNewTitle": "Add new account",
+        "addNewCrypto": "Add new crypto wallet",
+        "chooseCurrency": "Choose currency",
+        "accName": "Account name",
+        "holderName": "Name of the account holder",
+        "accNumber": "Account number",
+        "bankCode": "Bank code",
+        "bankName": "Bank name",
+        "bankAddress": "Bank address",
+        "create": "Create",
+        "paycapAccounts": "PayCap accounts",
+        "cryptoWallets": "Crypto currency wallets",
+        "save": "Save",
+        "delete": "Delete",
+        "transfer": "Transfer",
+        "exchange": "Exchange",
+        "topup": "Top up",
+        "edit": "Edit",
+        "editTitle": "Edit account"
+    },
+    "menu": {
+        "profile": "Profile",
+        "security": "Security",
+        "about": "About",
+        "logout": "Log out",
+        "dashboard": "Dashboard",
+        "news": "News",
+        "payment": "Transfers",
+        "accounts": "Accounts",
+        "contacts": "Recipients"
+    },
+    "personalData": {
+        "title": "Personal information",
+        "fullName": "Name",
+        "birthDate": "Date of birth",
+        "email": "Email",
+        "phoneNumber": "Phone number",
+        "password": "Password",
+        "nationality": "Nationality",
+        "birthplace": "Birthplace",
+        "birthday": "Birthday",
+        "address1": "Address1",
+        "address2": "Address2",
+        "verify": "Verify your identity",
+        "edit": "Edit your profile",
+        "save": "Update",
+        "code": "Verification code",
+        "inviteFriend": "Invite Friend"
+    },
+    "friendAdd": {
+        "title": "Add Friend"
+    },
+    "friendDetails": {
+        "title": "Friend details"
+    },
+    "friendEdit": {
+        "title": "Edit friend details"
+    },
+    "friendsList": {
+        "title": "Friends",
+        "noContact": "No recipients saved",
+        "addContactsDesc": "Add contacts to PayCap so you can instantly send and recieve money wherever you are.",
+        "addRecipient": "Add recipient",
+        "personal": "Personal",
+        "business": "Business",
+        "name": "Name",
+        "email": "E-mail",
+        "phone": "Phone",
+        "type": "Type",
+        "primCurr": "Recipient's primary currency",
+        "accNum": "Account number",
+        "bankCode": "Bank code",
+        "": "",
+        "": "",
+        "": ""
+    },
+    "inviteFriend": {
+        "title": "Invite your friends",
+        "description": "Tell your friends about PayCap so you can instantly send and recieve money wherever you are.",
+        "email": "Friend's email",
+        "invite": "Invite",
+        "success": "Success!",
+        "successDesc": "We successfully sent the invitation",
+        "error": "Oooops!",
+        "errorDesc": "Something went wrong, try again later",
+        "ok": "OK",
+        "remainingInvites": "Number of invites remaining",
+        "inviteNoFailure": "Cannot get remaining invite number",
+        "friendInvited": "Friend successfully invited",
+        "OutOfInvitesException": "You are out of invites."
+    },
+    "authentication": {
+        "logoutButtonLabel": "Logout",
+        "deleteUserButtonLabel": "Delete me",
+        "logIn": "Login",
+        "loggingIn": "Logging in...",
+        "checkingCredentials": "checking credentials...",
+        "loginError": "Login error",
+        "confirmLogout": "Are you sure that you want to log out?",
+        "confirmDeleteUser": "Are you sure that you want delete your account?",
+        "confirmMfaDelete": "Are you sure?",
+        "deleteUserError": "Cannot delete user, unknown error",
+        "email": "email",
+        "backendErrors": {
+            "invalidAuth": "Invalid username or password."
+        }
+    },
+    "popup": {
+        "confirmation": "Confirmation",
+        "alert": "Alert"
+    },
+    "form": {
+        "selectOption": "Select option",
+        "errors": {
+            "required": "Mandatory",
+            "email": "Invalid email",
+            "invalid": "Invalid value",
+            "unknown": "Unknown error",
+            "undefined": "Unknown error",
+            "passwordMismatch": "Password mismatch",
+            "minlength": "Too short",
+            "phoneNumber": "Invalid phone number",
+            "User does not exist.": "User does not exist.",
+            "UsernameExistsException": "An account with the given email already exists.",
+            "Incorrect username or password.": "Incorrect username or password.",
+            "User password cannot be reset in the current state.": "User password cannot be reset in the current state.",
+            "Password reset required for the user": "Password reset required for the user",
+            "CodeMismatchException": "Invalid code",
+            "TextNotFoundException": "The image provided does not seem to contain textual data.",
+            "CodeNotFoundException": "The image provided does not seem to contain a numeric code.",
+            "FaceMismatchException": "One or more of the images provided do not seem to contain faces.",
+            "Internal server error": "Internal server error"
+        }
+    },
+    "views": {
+        "authentication": {
+            "username": {
+                "description": "Send money and manage your finances with PayCap",
+                "facebook": "Connect with Facebook",
+                "email": "Email"
+            },
+            "invalidAuth": {
+                "uhOh": "Uh oh!",
+                "somethingWrong": "Something went wrong! Your sign in attempt failed with the following message:",
+                "tfaCodeError": "It looks like your Two Factor Authentication code was errorneous."
+            },
+            "enterPassword": {
+                "title": "Enter your password",
+                "password": "password",
+                "forgotPassword": "Forgot password?"
+            },
+            "tfa": {
+                "title": "Please enter the code you just received on your phone or email",
+                "code": "code",
+                "removeTfa": "Remove TFA"
+            },
+            "changePassword": {
+                "title": "Change your password",
+                "explanation": "It looks like you need to change your password. Please make sure your new password is at least 12 characters long and contains both uppercase and lowercase letters, numbers and symbols.",
+                "oldPassword": "Enter your old password",
+                "newPassword1": "Enter your new password",
+                "newPassword2": "Enter your new password again",
+                "mustMatch": "Passwords must be the same",
+                "validPassword": "Uh oh! Please make sure your password is at least 12 characters long, and it has both uppercase and lowercase letters, numbers and symbols. This helps us better protect your account. :)"
+            },
+            "changeForgotPassword": {
+                "smsCode": "Enter your SMS code"
+            },
+            "forgotPassword": {
+                "title": "Request a one-time password",
+                "description": "Enter your email address or phone number to request a new one-time password."
+            },
+            "passwordSent": {
+                "title": "SMS sent!",
+                "description": "We have sent a verification code by SMS. Please use the code to change your password."
+            },
+            "enableTfa": {
+                "title": "Would you like to use Two Factor Authentication?",
+                "explanation": "We can send you a one-time code to your account whenever you log into PayCap, so that it becomes more secure. We strongly adwise you to enable this feature - we're talking money after all!",
+                "explanationBottom": "You can enable or disable TFA anytime from your Settings page.",
+                "enableTfa": "ENABLE TFA",
+                "noThanks": "No thanks, not right now."
+            }
+        },
+        "registration": {
+            "general": {
+                "rememberMe": "Remember me, I'll be back later!"
+            },
+            "welcome": {
+                "title": "Welcome to PayCap!",
+                "startRegistration": "START REGISTRATION",
+                "explanation": "It looks like your sign in name isn't registered yet. Would you like to set up a new account?"
+            },
+            "acceptTerms": {
+                "title": "Terms and Conditions",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "accept": "ACCEPT",
+                "decline": "Decline"
+
+            },
+            "accountType": {
+                "title": "Personal or company account?",
+                "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "description2": "For now, let's choose your account type.",
+                "createPersonal": "Create personal account",
+                "createCompany": "I'm a Company representative"
+            },
+            "nationality": {
+                "title": "Choose your nationality",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "hungarian": "I'M HUNGARIAN",
+                "eea": "FROM THE EU / EUROPEAN ECONOMIC AREA",
+                "nonEea": "FROM OUTSIDE OF EU / EEA"
+            },
+            "personalData": {
+                "title": "Please tell us about yourself",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "fullName": "Name",
+                "maidenName": "Maiden name (if applicable)",
+                "motherName": "Mother's maiden name",
+                "nationality": "Select nationality...",
+                "birthPlace": "Place of birth",
+                "birthDate": "Date of birth"
+            },
+            "currentAddress": {
+                "title": "What's your current address?",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "addressAddress": "Street address",
+                "addressCity": "City",
+                "addressZip": "Post code",
+                "addressCountry": "Select country...",
+                "addressRegion": "Region"
+            },
+            "contactInfo": {
+                "title": "Contact information",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "email": "Email",
+                "phoneNumber": "Phone number",
+                "doLogin": "Your account has been created, now sign in with the password that we have send you by email."
+            },
+            "snapshot": {
+                "snap": "SNAP!",
+                "retake": "RETAKE",
+                "upload": "UPLOAD IMAGE",
+                "uploading": "uploading image",
+                "getSmsCode": "Get code",
+                "smsInfoNew": "If you don't have recognition code, get one, then do the THING with the code and the selfie.",
+                "smsInfoOld": "Now, do the THING with the code and the selfie.",
+                "uploadDocuments": "Upload documents again"
+            },
+            "uploadDocuments": {
+                "title": "Upload documents",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "photoid1": "PHOTO ID #1",
+                "photoid2": "PHOTO ID #2",
+                "personalId": "PERSONAL ID OR PASSPORT",
+                "proofOfResidence": "PROOF OF RESIDENCE",
+                "expiry": "Expiry date",
+                "restart": "Start all over again",
+                "docNeeded": "Start sending the required document"
+            },
+            "verifyIdentity": {
+                "title": "Verify your identity using your camera",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "readySelfie": "READY FOR THE SELFIE",
+                "rememberMe": "Remember me, I'll be back later!"
+            },
+            "finalize": {
+                "title": "Cool, cool! Just let us know wherever you're ready!",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "continue": "LET'S CONTINUE"
+            },
+            "confirmVideochat": {
+                "title": "Ready to continue with a videochat?",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "readyVideoChat": "READY FOR A VIDEO-CHAT"
+            },
+            "snapshotError": {
+                "title": "Ready to continue with a videochat?",
+                "explanation1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "explanation2": "et dolore magna aliqua.",
+                "explanation3": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "startVideoChat": "Let's start a video chat instead."
+            },
+            "videoChatConnecting": {
+                "title": "Connecting you to a representative",
+                "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "titleLong": "Hmm, it looks like things are taking too long!",
+                "explanationLong": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "titleLater": "Sounds good! Please check back in later - whenever you're free!",
+                "doItLater": "Let's do this later?",
+                "explanationlater": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                "tryAgain": "Try connecting again"
+            },
+            "allDone": {
+                "title": "All done all done!",
+                "explanation1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "explanation2": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "continue": "TO MY DASHBOARD, PLEASE!"
+            }
+        },
+        "generic": {
+
+        }
+    },
+    "friends": {
+        "areUSure": "Are you sure about deleting this friend?",
+        "addFriend": "Add friend"
+    }
+}

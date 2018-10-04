@@ -1,0 +1,60 @@
+{
+    "translatedText": "Szöveg magyarul",
+    "labels": {
+        "continue": "FOLYTATÁS",
+        "ok": "OK"
+    },
+    "dashboard": {
+
+    },
+    "menu": {
+        "profile": "Profile",
+        "security": "Security",
+        "about": "About",
+        "logout": "Log out",
+        "dashboard": "Dashboard",
+        "payment": "Payment",
+        "accounts": "Accounts",
+        "contacts": "Contacts"
+    },
+    "personalData": {
+        "title": "Personal information",
+        "fullName": "Name",
+        "birthDate": "Date of birth",
+        "email": "Email",
+        "phoneNumber": "Phone number",
+        "nationality": "Nationality",
+        "birthplace": "Birthplace",
+        "birthday": "Birthday",
+        "address1": "Address1",
+        "address2": "Address2",
+        "verify": "Verify your identity",
+        "edit": "Edit your profile"
+    },
+    "healthcheck": {
+        "buttonTitle": "Szedj valamit",
+        "fetching": "Szedem"
+    },
+    "authentication": {
+        "logoutButtonLabel": "Kilépés",
+        "logIn": "Belépés",
+        "loggingIn": "belépés...",
+        "loginError": "Bejelentkezési hiba",
+        "confirmLogout": "Biztosan kilép?",
+        "email": "email",
+        "password": "jelszó",
+        "forgotPassword": "Elfelejtett jelszó"
+    },
+    "popup": {
+        "confirmation": "Megerősítés"
+    },
+    "form": {
+        "errors": {
+            "required": "Kötelező",
+            "email": "Hibás email",
+            "invalid": "Hibás érték",
+            "unknown": "Ismeretlen hiba",
+            "phoneNumber": "Hibás telefonszám"
+        }
+    }
+}

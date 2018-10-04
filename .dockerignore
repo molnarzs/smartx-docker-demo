@@ -1,0 +1,12 @@
+.git
+.gitignore
+README.md
+docker-compose.*
+docker
+e2e
+Dockerfile*
+node_modules
+.travis.yml
+npm-debug.log
+README.md
+reports

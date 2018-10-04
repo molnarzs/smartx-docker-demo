@@ -1,0 +1,29 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../out-tsc/app",
+    "types": ["node", "jest"],
+    "paths": {
+      "*": ["*", "../node_modules/*"],
+      "fs": ["./global-shims"],
+      "path": ["./global-shims"],
+      "os": ["./global-shims"],
+      "http": ["./global-shims"],
+      "https": ["./global-shims"],
+      "stream": ["./global-shims"],
+      "net": ["./global-shims"],
+      "ws": ["./global-shims"],
+      "tls": ["./global-shims"],
+      "zlib": ["./global-shims"],
+      "crypto": ["./global-shims"],
+      "global": ["./global-shims"],
+      "tty": ["./global-shims"],
+      "socket.io-client": ["../node_modules/socket.io-client/dist/socket.io"],
+      "simple-peer": ["../node_modules/simple-peer/simplepeer.min"]
+    }
+  },
+  "exclude": [
+    "**/test/**/*",
+    "**/*.spec.ts"
+  ]
+}

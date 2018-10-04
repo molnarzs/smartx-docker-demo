@@ -1,0 +1,9 @@
+version: '3.1'
+
+services:
+  paycap-client.webpack-server:
+    ports:
+      - "5858:5858"
+    environment:
+      - DEBUG
+

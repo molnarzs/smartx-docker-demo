@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>flag/HUF@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="16" rx="2"></rect>
+    </defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PayCap-Styleguide" transform="translate(-494.000000, -6446.000000)">
+            <g id="flag/HUF" transform="translate(494.000000, 6446.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="mask"></g>
+                <rect id="Rectangle-18" fill="#D84050" fill-rule="evenodd" mask="url(#mask-2)" x="0" y="0" width="24" height="5.33333333"></rect>
+                <rect id="Rectangle-18-Copy-2" fill="#538060" fill-rule="evenodd" mask="url(#mask-2)" x="0" y="10.6666667" width="24" height="5.33333333"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

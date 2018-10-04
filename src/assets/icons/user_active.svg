@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/user-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/user-active" transform="translate(-4.000000, -3.000000)" fill="#007FFF" fill-rule="nonzero">
+            <path d="M9.21879473,10.5795809 C8.46296288,9.77458065 8,8.69135571 8,7.5 C8,5.01471863 10.0147186,3 12.5,3 C14.9852814,3 17,5.01471863 17,7.5 C17,8.69170984 16.5367618,9.77522461 15.7805312,10.5802987 C18.8404771,11.7243745 20.9859481,14.4694109 21,18 C21.0120921,21.0381961 19.0459205,21 12,21 C4.95407955,21 4,21.0594549 4,18 C4,14.4686619 6.15345329,11.7232235 9.21879473,10.5795809 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
